@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inputNumber {
+    font-size: 30px;
+}
+.menu {
+    margin: 20px;
+}
